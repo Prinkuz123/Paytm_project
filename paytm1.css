@@ -1,0 +1,133 @@
+
+.header{
+    display: flex;
+    flex-direction: row;
+      justify-content: center;
+    margin-left:25px;}
+   
+.img img{
+    width: 180px;
+    height: 55.4 px;
+ }
+div ul li{ 
+    
+    list-style: none;
+    
+ }
+.head1{
+    font-size: 17px;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+  
+  
+    
+
+}
+.button{
+    background-color:#00baf2 ;
+    border: blue;
+    position: absolute;top: 25px;
+    border-radius: 50px 50px 50px 50px;
+    height: 38px;
+    width: 114.18px;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+.button:hover{
+    background-color: rgb(43, 43, 90);
+    border: 1px solid blue;
+    color: white;
+}
+.nav{
+    font-size: 17px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 33px;
+    width:100% ;
+    background:linear-gradient(#d3d3d3, white);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;bottom: 120px;
+
+}
+.img2 img{
+    height: 22px;
+     width: 22px;
+}
+
+.button2 {
+    font-size: 15px;
+    width:253.29px;
+    height:55.6px;
+    display: flex;
+    border-radius: 30px 30px 30px 30px ;
+    background-color: rgb(8, 8, 8);
+    color: white;
+    justify-content: center;
+   align-items: center;   
+   line-height: 1px;
+   margin-left: 100px;
+
+}
+
+.button2:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+    border: 1px solid black;
+    
+}
+  
+.article img{
+    font-size: 20px;
+    display: flex;
+    width: 528px;
+    height:503.44px ;
+    padding-left: 50%;
+    margin-top:-50%;
+   min-height: auto;
+ }
+ .side .img3{
+   
+  
+height: 80px;
+width: 80px;
+padding-left: 100px;
+   
+ }
+ .p{
+    padding-left:100px;
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .h1{
+    padding-left: 100px;
+    font-size: 54px;
+ }
+ .article{ 
+    padding-left: 462px;
+ }
+
+ 
+ .fa-brands.fa-apple{
+    height:16px ;
+    width:14px ;
+    position: relative;
+    left: 10px;
+   
+ }
+ .fa-brands.fa-google-play{
+    height:16px ;
+    width:14px ;
+    position: relative;
+    left: 20px;
+   
+    
+
+ }
